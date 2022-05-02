@@ -1,5 +1,4 @@
 # Speech-Text
-Interfata de traducere a fisierelor text si audio.
 SpeechText reprezinta o interfata de traducere text si fisiere audio, realizata in Python
 3.9.4.
 Interfata ofera user-ului urmatoarele posibilitati:
